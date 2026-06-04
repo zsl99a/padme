@@ -21,6 +21,10 @@ last_updated: 2026-06-04
 | `docs/sources/` | 信息源档案(平台、社区、Newsletter、博主) | [`docs/sources/README.md`](./sources/README.md) |
 | `docs/workflows/` | 端到端工作流脚本与流程定义 | [`docs/workflows/README.md`](./workflows/README.md) |
 
+## 老板入口
+
+> 不想看细节?直接读 [`docs/ACTION-PLAN.md`](./ACTION-PLAN.md) —— 一句话告诉你现在最该做哪件事、给你要什么资源、怎么开始。
+
 ## 核心约束(全文适用)
 
 1. **当前有效**:机会必须有「2026-06-04 之后」的证据;过期/疑似过期机会不进入档案,直接淘汰。

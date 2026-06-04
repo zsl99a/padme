@@ -12,7 +12,7 @@ last_updated: 2026-06-04
 
 | 名称 | 用途 | 入口 |
 | --- | --- | --- |
-| _暂无 |  |  |
+| llm-api-relay | LLM API 中转站一键启动包(决策首选) | [llm-api-relay/](./llm-api-relay/) |
 
 ## 计划
 
