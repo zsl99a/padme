@@ -15,6 +15,7 @@ last_updated: 2026-06-04
 | Gumroad 数字商品 | 8.4 | structural | digital-product, gumroad, content, passive, global | [gumroad-digital-products.md](./gumroad-digital-products.md) |
 | Agent 工具 / Skill 打包分发 | 8.3 | volatile | ai, agent, dev-tool, distribution, global | [agent-tools-and-skills-distribution.md](./agent-tools-and-skills-distribution.md) |
 | Web Monetization API | 7.8 | structural | web, passive, api, global | [web-monetization-api.md](./web-monetization-api.md) |
+| LLM Gateway 托管云服务(海外向) | 7.6 | structural | ai, saas, dev-tool, gateway, global | [llm-gateway-managed-service.md](./llm-gateway-managed-service.md) |
 | Micro-SaaS 小工具月费订阅 | 7.4 | structural | saas, micro, passive, global | [micro-saas-utility-app.md](./micro-saas-utility-app.md) |
 | Substack 时事通讯付费化 | 7.4 | structural | content, newsletter, passive, global | [substack-newsletter-monetization.md](./substack-newsletter-monetization.md) |
 | LLM API 中转(国内向) | 7.3 | volatile | ai, api, reselling, gray, cn | [llm-api-reselling-cn.md](./llm-api-reselling-cn.md) |
