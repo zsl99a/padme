@@ -8,8 +8,8 @@ last_updated: 2026-06-04
 
 # 工作流:LLM API 中转(国内向) 一键启动包
 
-> 配套机会档案:`../../opportunities/llm-api-reselling-cn.md`
-> 决策来源:`../../ACTION-PLAN.md`(第一梯队推荐)
+> 配套机会档案:`../../docs/opportunities/llm-api-reselling-cn.md`
+> 决策来源:`../../docs/ACTION-PLAN.md`(第一梯队推荐)
 
 ## 目标
 

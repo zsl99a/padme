@@ -1,3 +1,10 @@
 
 # firecrawl cache
 .firecrawl/
+
+# workflow 业务数据(默认不入 git,留档用匿名化导出)
+workflows/*/data/
+
+# sub agent 任务临时数据(结果若需留档,主动 commit 单文件)
+subagent_tasks/*/notes.md
+subagent_tasks/*/scratch.*

@@ -1,7 +1,7 @@
 # 风险登记册
 
-> 配套机会档案:`../../../opportunities/llm-api-reselling-cn.md`
-> 配套规则:`../../../rules/008-合法合规红线.md`
+> 配套机会档案:`../../../docs/opportunities/llm-api-reselling-cn.md`
+> 配套规则:`../../../docs/rules/008-合法合规红线.md`
 
 ## 风险等级
 
