@@ -12,11 +12,13 @@ last_updated: 2026-06-04
 
 | 名称 | 分数 | 时效类别 | 标签 | 档案 |
 | --- | --- | --- | --- | --- |
-| Web Monetization API 内容付费化 | 7.8 | structural | web, passive, api, global | [web-monetization-api.md](./web-monetization-api.md) |
+| Gumroad 数字商品 | 8.4 | structural | digital-product, gumroad, content, passive, global | [gumroad-digital-products.md](./gumroad-digital-products.md) |
+| Agent 工具 / Skill 打包分发 | 8.3 | volatile | ai, agent, dev-tool, distribution, global | [agent-tools-and-skills-distribution.md](./agent-tools-and-skills-distribution.md) |
+| Web Monetization API | 7.8 | structural | web, passive, api, global | [web-monetization-api.md](./web-monetization-api.md) |
 | Micro-SaaS 小工具月费订阅 | 7.4 | structural | saas, micro, passive, global | [micro-saas-utility-app.md](./micro-saas-utility-app.md) |
 | Substack 时事通讯付费化 | 7.4 | structural | content, newsletter, passive, global | [substack-newsletter-monetization.md](./substack-newsletter-monetization.md) |
-| LLM API 中转(中国大陆向) | 7.3 | volatile | ai, api, reselling, gray, cn | [llm-api-reselling-cn.md](./llm-api-reselling-cn.md) |
-| ChatGPT Plus / Claude Pro 拼车平台 | 7.2 | seasonal | ai, pooling, subscription, cn | [chatgpt-plus-pooling.md](./chatgpt-plus-pooling.md) |
+| LLM API 中转(国内向) | 7.3 | volatile | ai, api, reselling, gray, cn | [llm-api-reselling-cn.md](./llm-api-reselling-cn.md) |
+| ChatGPT Plus 拼车 | 7.2 | seasonal | ai, pooling, subscription, cn | [chatgpt-plus-pooling.md](./chatgpt-plus-pooling.md) |
 | new-api / sub2api 自部署 SaaS | 7.1 | structural | open-source, saas, ai, dev-tool, cn | [new-api-self-host-saas.md](./new-api-self-host-saas.md) |
 
 ## 失效 / 归档
