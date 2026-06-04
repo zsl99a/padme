@@ -20,7 +20,8 @@ last_updated: 2026-06-04
 
 | 名称 | 类别 | 状态 | 档案 |
 | --- | --- | --- | --- |
-| _暂无 |  |  |  |
+| V2EX · 创造节点 | community | active | [v2ex-create.md](./v2ex-create.md) |
+| HackerNews · Algolia 检索 | community | active | [hn-algolia.md](./hn-algolia.md) |
 
 ## 维护提醒
 
