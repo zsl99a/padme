@@ -2,10 +2,10 @@
 type: opportunity
 name: grass-depin-bandwidth
 status: active
-score: 6.7
+score: 6.5
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [web3, depin, bandwidth, ai, grass, gray]
 ---

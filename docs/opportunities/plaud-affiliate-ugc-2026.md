@@ -2,10 +2,10 @@
 type: opportunity
 name: plaud-affiliate-ugc-2026
 status: active
-score: 8.7
+score: 8.6
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [affiliate, ai-hardware, content, plaud, ugc]
 ---

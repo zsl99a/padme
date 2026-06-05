@@ -2,10 +2,10 @@
 type: opportunity
 name: elevenlabs-voice-library-payouts
 status: active
-score: 8.6
+score: 8.5
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [voice, audio, ai, passive, royalty, china-friendly, stripe-connect]
 ---

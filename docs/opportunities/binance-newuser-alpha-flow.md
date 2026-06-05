@@ -2,10 +2,10 @@
 type: opportunity
 name: binance-newuser-alpha-flow
 status: active
-score: 5.6
+score: 5.3
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: cn
 tags: [web3, cex, airdrop, alpha, megadrop, binance, gray, kyc]
 ---

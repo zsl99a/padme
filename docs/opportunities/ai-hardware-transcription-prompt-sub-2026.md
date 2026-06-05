@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-hardware-transcription-prompt-sub-2026
 status: active
-score: 8.3
+score: 8.5
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [ai, hardware, subscription, prompt, transcription, b2b]
 ---

@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-tools-review-affiliate-seo-2026
 status: active
-score: 8.5
+score: 8.2
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [seo, affiliate, ai-tools, blog, passive, china-friendly, review]
 ---

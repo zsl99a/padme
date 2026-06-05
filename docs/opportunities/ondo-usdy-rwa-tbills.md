@@ -2,10 +2,10 @@
 type: opportunity
 name: ondo-usdy-rwa-tbills
 status: active
-score: 6.1
+score: 5.9
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: us
 tags: [web3, defi, rwa, stablecoin, treasury, ondo, gray]
 ---

@@ -2,10 +2,10 @@
 type: opportunity
 name: xiaohongshu-ai-matrix
 status: active
-score: 7.1
+score: 6.7
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: cn
 tags: [ai, xiaohongshu, douyin, matrix, content, gray, cn, automation]
 ---

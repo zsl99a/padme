@@ -2,10 +2,10 @@
 type: opportunity
 name: xai-ai-tutor-cn-2026
 status: active
-score: 7.0
+score: 6.5
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 tags: [ai-trainer, freelance, dollar-income, cn-friendly, side-job]
 region: cn+global
 ---

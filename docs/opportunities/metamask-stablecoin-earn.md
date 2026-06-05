@@ -2,10 +2,10 @@
 type: opportunity
 name: metamask-stablecoin-earn
 status: active
-score: 6.1
+score: 5.9
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [web3, defi, stablecoin, yield, aave, metamask, gray]
 ---

@@ -2,10 +2,10 @@
 type: opportunity
 name: apify-actor-ppe-monetization
 status: active
-score: 7.4
+score: 7.2
 freshness_class: seasonal
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 tags: [api, scraper, automation, data, pay-per-event, global, cn-friendly]
 region: global
 ---

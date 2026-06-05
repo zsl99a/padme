@@ -1,0 +1,9 @@
+{
+  "task_id": "cluster-4-ai-saas-api",
+  "assigned_at": "2026-06-05T10:00:00+08:00",
+  "scope": "AI SaaS / Micro-SaaS / API 包装 / 编程工具类机会档案的重复检测 + 多源验证 + v2.0 重新评分,共 11 个文件",
+  "deadline_minutes": 60,
+  "deliverable": "subagent_tasks/cluster-4-ai-saas-api/result.md",
+  "tools_allowed": ["web_search", "web_scrape", "read_file", "write_file", "edit_file", "terminal"],
+  "output_format": "markdown"
+}

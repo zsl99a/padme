@@ -2,10 +2,10 @@
 type: opportunity
 name: hotmart-affiliate-international-2026
 status: active
-score: 7.4
+score: 7.2
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: latam+global
 tags: [hotmart, affiliate, digital-product, brazil, paypal, china-individual]
 ---
@@ -14,7 +14,7 @@ tags: [hotmart, affiliate, digital-product, brazil, paypal, china-individual]
 
 ## 一句话定位
 
-中国个人免费注册 Hotmart Affiliate,推广拉美 + 全球创作者发布的数字商品(课程/电子书/模板/软件),通过 AI 翻译 + 多语种短视频在 YouTube/TikTok/IG 引流,拿 20-80% CPS 佣金,通过 PayPal/Wise/Payoneer 收款。
+中国个人免费注册 Hotmart Affiliate,推广拉美 + 全球创作者发布的数字商品(课程/电子书/模板/软件),通过 AI 翻译 + 多语种短视频在 YouTube/TikTok/IG 引流,**affiliate 佣金 20-80%(创作者设置)**(注意:**佣金是平台给 affiliate 的比例**,不是"Hotmart 抽 20%"),通过 PayPal/Wise/Payoneer 收款。
 
 ## 自动化路径
 

@@ -2,10 +2,10 @@
 type: opportunity
 name: discord-premium-apps-2026
 status: active
-score: 7.5
+score: 7.3
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [discord, premium-apps, activities, bot, 70-30, dev, global]
 ---

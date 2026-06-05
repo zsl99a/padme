@@ -2,10 +2,10 @@
 type: opportunity
 name: tiktok-shop-affiliate-creator-2026
 status: active
-score: 7.3
+score: 7.5
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: us+cn
 tags: [affiliate, tiktok, creator, short-video, cross-border]
 ---

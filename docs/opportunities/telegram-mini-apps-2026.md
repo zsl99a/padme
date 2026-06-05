@@ -2,10 +2,10 @@
 type: opportunity
 name: telegram-mini-apps-2026
 status: active
-score: 8.0
+score: 7.8
 freshness_class: seasonal
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global+cn-friendly
 tags: [telegram, mini-app, ton, usdt, creator-economy, commerce, global]
 ---

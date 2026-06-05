@@ -2,10 +2,10 @@
 type: opportunity
 name: vibe-coding-cleanup-service
 status: active
-score: 6.9
+score: 6.0
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [vibe-coding, cleanup, freelance, dev, global, retain, engineer]
 ---

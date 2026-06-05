@@ -2,10 +2,10 @@
 type: opportunity
 name: chatgpt-plus-pooling
 status: active
-score: 7.1
+score: 6.6
 freshness_class: seasonal
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: cn
 tags: [ai, pooling, subscription, cn]
 ---

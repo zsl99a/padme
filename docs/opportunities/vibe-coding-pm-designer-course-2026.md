@@ -2,10 +2,10 @@
 type: opportunity
 name: vibe-coding-pm-designer-course-2026
 status: active
-score: 8.0
+score: 7.7
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [vibe-coding, teaching, pm, course, 0-fund]
 ---
@@ -18,13 +18,13 @@ tags: [vibe-coding, teaching, pm, course, 0-fund]
 
 ## 为什么 2026 是机会(关键证据)
 
-**关键事实 1:Maven 平台 Vibe Coding 课程已验证收入**
+**关键事实 1:Maven 平台 Vibe Coding 课程已验证收入**[700 学员案例不可验证]
 
-来自 [Maven 平台 "Vibe Coding 101: Kickstart 2026"](https://maven.com/courses/vibe-coding-101-2026)(2026-04 抓取):
+⚠️ **2026-06-05 关键修正**:**Maven 课程 URL (maven.com/courses/vibe-coding-101-2026) 返回 404**,可能已改名/下架;**700 学员 / $48,510 创作者收入数据**无法独立验证;Maven 现有多个 vibe coding 课程(但 Michelle 课程可能已改名/下架)。
 
-> "700+ students enrolled at $99/student (Maven takes 30%, creator takes $69.30). **GMV $69,300 to date, $48,510 to creator**."
-> "Course format: 5 modules, 4 live cohort sessions, peer review. Median completion rate 78%."
-> "Creator: Michelle, 20-year product manager, zero coding background, **shipped her first product in 7 days using Claude Code**."
+来自 [Maven 平台 vibe coding 类目替代课程](https://maven.com/courses/ai/vibe-coding)(2026-06-05 抓取):
+
+> Maven vibe coding 类目下 6+ 课程(包括 Vibe Coding Bootcamp $799, 4.7 评分 208 reviews);**Michelle 700 学员案例不可验证**;**BuildEdge IH 帖未独立抓取**(原档引用)
 
 来自 [BuildEdge IH 帖 "How I sold $5,800 in Claude Code courses in 30 days"](https://www.indiehackers.com/post/sold-claude-code-courses-2026)(2026-05):
 

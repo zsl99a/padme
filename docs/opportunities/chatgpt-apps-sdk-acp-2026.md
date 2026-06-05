@@ -2,10 +2,10 @@
 type: opportunity
 name: chatgpt-apps-sdk-acp-2026
 status: active
-score: 7.5
+score: 7.3
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [openai, chatgpt, apps-sdk, mcp, acp, agentic-commerce, global]
 ---

@@ -2,10 +2,10 @@
 type: opportunity
 name: gumroad-digital-products
 status: active
-score: 9.2
+score: 9.0
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [digital-product, gumroad, content, passive, global]
 ---

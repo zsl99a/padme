@@ -2,10 +2,10 @@
 type: opportunity
 name: printify-shopify-pod-2026
 status: active
-score: 7.1
+score: 7.3
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [print-on-demand, printify, shopify, tshirt, china-individual]
 ---

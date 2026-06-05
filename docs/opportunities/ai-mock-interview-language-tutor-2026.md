@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-mock-interview-language-tutor-2026
 status: active
-score: 8.2
+score: 7.2
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [edtech, career, language, ai-tutor, saas]
 ---
@@ -20,26 +20,23 @@ tags: [edtech, career, language, ai-tutor, saas]
 
 **关键事实 1:多个独立 indie / startup 跑通付费**
 
-| 玩家 | 模式 | 2026 数据 |
+| 玩家 | 模式 | 2026 数据(已修正) |
 | --- | --- | --- |
-| **Reddit r/SaaS founder**(FAANG 离职) | AI 模拟面试 | 辞职做 AI 模拟面试,$15K MRR |
-| **Praktika AI** | 英语口语陪练 | $32.5M Series A,月收入约 $2M |
-| **Final Round AI** | AI 模拟面试 | $90/月头部订阅 |
-| **Permito** | AI visa 模拟面试 | solo 5 个月 1700 学生,$650 MRR |
-| **Interviewing.io** | 真人 + AI 混合 | 已融资,AI 部分订阅 $39 起 |
+| **Reddit r/SaaS founder**(FAANG 离职) | AI 模拟面试 | 辞职做 AI 模拟面试,$15K MRR(单源,需独立验证) |
+| **Praktika AI** | 英语口语陪练 | **$12M ARR(2026-03),$1M/月,20M+ learners**(原档 $32.5M Series A + 月 $2M 失实) |
+| **Final Round AI** | ~~AI 模拟面试~~ | ⚠️ **赛道错位**:Final Round AI 实际是 "**100% Invisible & Undetectable** 实时面试作弊" 工具,与雇主面试 ToS 直接冲突,**不是 AI 模拟面试**;**从本机会正面案例移除** |
+| **Permito** | AI visa 模拟面试 | **一次性付费(One-time)**,Free / $6.9 / $14.9 / **$39(Until Approved + 60 天退款)**;**2,500+ applicants**(原档 1700 学生失实) |
+| **Interviewing.io** | 真人 + AI 混合 | 已融资,AI 部分订阅 $25/月起(原档 $39 起略高) |
 
-**关键事实 2:语言陪练赛道被 Praktika 验证**
+**关键事实 2:语言陪练赛道被 Praktika 验证(数据修正)**
 
-来自[Praktika 官网 / TechCrunch 报道](https://praktika.ai/):
-> Praktika AI 拿到 $32.5M Series A 融资,月活用户百万级,月收入约 $2M,主推「AI 老师 + 真实对话感」。
+来自[Praktika 官网 + ConsumerStartups 2026-03-25 报道](https://praktika.ai/):
+> Praktika AI 实际 ARR **$12M**(2026-03 数据),**$1M/月**(原档 $2M/月失实),**$32.5M Series A 数字未在本次验证中找到**;月活用户 2M / 20M+ learners 主页确认;主推「AI 老师 + 真实对话感」。
 
-来自[Final Round AI 官网](https://www.finalroundai.com/):
-> $90/月头部订阅,主打「AI 模拟面试 + 简历优化 + 求职信」三件套。
+**关键事实 3:签证 / 留学垂直被 Permito 验证(数据修正)**
 
-**关键事实 3:签证 / 留学垂直被 Permito 验证**
-
-来自[Permito 官网](https://permito.ai/):
-> Solo founder 5 个月做到 1700 学生付费,$650 MRR,主推「AI visa 模拟面试」(H-1B / F-1 / O-1 等签证)。
+来自[Permito 官网 + pricing 页](https://permito.ai/):
+> Solo founder 一次性付费模式,Free / $6.9(3 模拟)/ $14.9(10 模拟)/ **$39(无限 + 60 天退款保证)**;2,500+ applicants · 87% approved;**不是订阅制**(原档 "$39-90/月订阅" 失实);多国用户验证(印度/墨西哥/中国/巴西/埃及/乌克兰);主页未公开 $650 MRR(可能来自 Permito 创始人公开分享,需独立验证)。
 
 **关键洞察**:通用 AI 聊天工具(ChatGPT 等)做不了「垂直面试题库 + 评分体系 + 进度跟踪」,垂直 SaaS 有 9-90 倍价差空间;且英语学习 / 求职 / 留学是 LTV 极高的全球需求。
 
@@ -84,15 +81,15 @@ graph LR
 | 启动成本(技能) | 5(需 Next.js + Prompt + WebRTC,1-2 月上手) | 0.05 | 0.25 |
 | 首笔收入速度 | 5(2-4 周 MVP + 立即可上线 / 冷启动需 SEO 1-2 月) | 0.15 | 0.75 |
 | 可扩展性 | 9(每加 1 用户边际成本 = API 费用,几乎为零) | 0.10 | 0.90 |
-| 可持续性 | 8(求职 / 留学 / 英语是 10+ 年长期需求) | 0.10 | 0.80 |
+| 可持续性 | 7(求职 / 留学 / 英语是 10+ 年长期需求,但赛道已被 Praktika / Permito 验证饱和,中等蓝海) | 0.10 | 0.70 |
 | 自动化程度 | 9(全自) | 0.15 | 1.35 |
-| 风险 = 0.5×法律 9 + 0.3×ToS 8 + 0.2×市场 5 = **7.7**(Praktika/Final Round 等已是巨头) | 7.7 | 0.15 | 1.155 |
-| 证据强度 | 9(Reddit founder $15K MRR + Praktika $2M/月 + Permito 真实跑通) | 0.15 | 1.35 |
-| **加权小计** | — | — | **7.40** |
-| + 现实数据奖励:多案例($15K + $2M + $650 MRR) → +0.8 | — | — | **+0.80** |
-| **总分** | — | — | **8.20** |
+| 风险 = 0.5×法律 9 + 0.3×ToS 7 + 0.2×市场 4 = **6.8**(Final Round AI 案例赛道错位,影响本机会的"市场蓝海"判断;Praktika $12M ARR + Permito + 多家已建立) | 6.8 | 0.15 | 1.02 |
+| 证据强度 | 5(Praktika $2M/月→$1M/月;Permito 1700→2500 + 订阅→一次性;Final Round AI 赛道错位;**核心 3/5 案例数据失实,大幅降分**) | 0.15 | 0.75 |
+| **加权小计** | — | — | **6.62** |
+| + 现实数据奖励:Praktika 真实(降为 $1M/月);Permito 真实;Final Round 降级为非赛道案例 → +0.50 | — | — | **+0.50** |
+| **总分** | — | — | **7.12 ≈ 7.2** |
 
-决策:**立即做**(2 周内完成 MVP,选 1 个垂直切片测试)
+决策:**降级到"排队"**(原"立即做"降一档;**应避开实时面试辅助赛道**(避免 gray 风险),专注 mock interview 模式,类似 Permito 一次性付费)
 
 ## 启动清单
 
@@ -100,10 +97,10 @@ graph LR
 - [ ] 接入 Whisper ASR + TTS(可用 OpenAI 官方 / ElevenLabs)
 - [ ] Next.js 14 + Vercel 搭骨架
 - [ ] 设计 Prompt 框架(LLM 动态生成题目,避免版权问题)
-- [ ] 选 1 个垂直切片:
-  - **签证签证面签**(Permito 同款,小而美)
-  - **FAANG 系统设计 mock**(Reddit founder 同款,高客单)
+- [ ] 选 1 个垂直切片(避开实时面试辅助,避免 gray 风险):
+  - **签证面签模拟**(Permito 同款,**一次性付费** + 60 天退款保证)
   - **雅思口语 7+ 训练**(中文母语用户,流量大)
+  - **留学面试 / 求职自我介绍**(Permito + Interviewing.io 综合)
 - [ ] 接入 Stripe(海外主体) / Lemon Squeezy(中国大陆个人)
 - [ ] Landing page 部署(Vercel 模板)
 - [ ] 内容 SEO:写 10-20 篇「XX 签证面试题」「FAANG 系统设计题库」博客
@@ -130,19 +127,19 @@ graph LR
 
 ## 参考来源
 
-1. [Reddit r/SaaS: 我辞了 FAANG 去做 AI 模拟面试,做到 $15K MRR](https://www.reddit.com/r/SaaS/) — first-hand — 抓取:2026-06-04
-   > 真实 founder 自述,$15K MRR,vertical SaaS 路径
-2. [Praktika AI 官网 + TechCrunch 报道](https://praktika.ai/) — first-hand — 抓取:2026-06-04
-   > $32.5M Series A,月收入约 $2M,英语口语陪练头部
-3. [Final Round AI 官网](https://www.finalroundai.com/) — first-hand — 抓取:2026-06-04
-   > $90/月头部订阅,AI 模拟面试 + 简历 + 求职信
-4. [Permito 官网](https://permito.ai/) — first-hand — 抓取:2026-06-04
-   > Solo founder 5 个月 1700 学生,$650 MRR,visa 模拟面试
-5. [OpenAI Whisper / Realtime API 文档](https://platform.openai.com/docs/) — official — 抓取:2026-06-04
+1. [Reddit r/SaaS: 我辞了 FAANG 去做 AI 模拟面试,做到 $15K MRR](https://www.reddit.com/r/SaaS/) — first-hand — 抓取:2026-06-05
+   > 真实 founder 自述,$15K MRR,vertical SaaS 路径(单源,需独立验证)
+2. [Praktika AI 官网 + ConsumerStartups 2026-03-25 报道](https://praktika.ai/) — first-hand — 抓取:2026-06-05
+   > **$12M ARR / $1M/月**(2026-03),$32.5M Series A 数字未在本次验证中找到;月活用户 2M / 20M+ learners;主推「AI 老师 + 真实对话感」;**$2M/月失实**
+3. [Final Round AI 官网](https://www.finalroundai.com/) — first-hand — 抓取:2026-06-05
+   > ⚠️ **赛道错位**:Final Round AI 实际是 "**100% Invisible & Undetectable** 实时面试作弊" 工具("Crack Every Interview with Real-Time AI Assistant" / "100% Undetectable" / "completely invisible to interviewers"),与雇主面试 ToS 直接冲突;**不是 AI 模拟面试**;**从本机会正面案例移除**
+4. [Permito 官网 + pricing 页](https://permito.ai/) — first-hand — 抓取:2026-06-05
+   > Solo founder **一次性付费**(One-time)模式,Free / $6.9 / $14.9 / **$39(Until Approved + 60 天退款保证)**;2,500+ applicants · 87% approved;多国用户验证(印度/墨西哥/中国/巴西/埃及/乌克兰);$650 MRR 主页未公开需独立验证
+5. [OpenAI Whisper / Realtime API 文档](https://platform.openai.com/docs/) — official — 抓取:2026-06-05
    > 实时语音对话 + ASR + TTS 完整技术栈
-6. [Indie Hackers: AI EdTech 类目真实数据汇总](https://www.indiehackers.com/) — first-hand — 抓取:2026-06-04
+6. [Indie Hackers: AI EdTech 类目真实数据汇总](https://www.indiehackers.com/) — first-hand — 抓取:2026-06-05
    > 多案例验证 vertical AI tutor 商业可行
 
 ## 复盘/亲测
 
-> 未亲测。本月计划:选「AI 雅思口语 7+ 训练」垂直(中文流量大 + 客单适中),用 Next.js + OpenAI Realtime API 搭 MVP,2 周内上线,目标第 2 月 $1K MRR。
+> 未亲测。**新分 7.2**(原 8.2 降 1.0),因 3/5 核心案例数据失实。本月计划:选「AI 雅思口语 7+ 训练」或「签证面签模拟」(Permito 同款,一次性付费)垂直,**避开实时面试辅助**(避免 gray / 作弊赛道),用 Next.js + OpenAI Realtime API 搭 MVP,2 周内上线,目标第 2 月 $1K MRR。

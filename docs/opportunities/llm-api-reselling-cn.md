@@ -2,10 +2,10 @@
 type: opportunity
 name: llm-api-reselling-cn
 status: active
-score: 7.5
+score: 7.0
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: cn
 tags: [ai, api, reselling, gray, cn]
 ---

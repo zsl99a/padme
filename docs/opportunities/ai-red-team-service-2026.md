@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-red-team-service-2026
 status: active
-score: 8.2
+score: 7.6
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [ai-security, red-team, prompt-injection, freelance, consulting]
 ---

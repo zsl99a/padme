@@ -1,0 +1,16 @@
+{
+  "task_id": "cluster-6-platform-marketplace",
+  "assigned_at": "2026-06-05T10:00:00+08:00",
+  "scope": "平台/应用市场 + 数字商品机会档案的重复检测 + 多源验证 + v2.0 重新评分,共 14 个文件",
+  "deadline_minutes": 60,
+  "deliverable": "subagent_tasks/cluster-6-platform-marketplace/result.md",
+  "tools_allowed": [
+    "web_search",
+    "web_scrape",
+    "read_file",
+    "write_file",
+    "edit_file",
+    "terminal"
+  ],
+  "output_format": "markdown"
+}

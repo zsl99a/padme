@@ -2,10 +2,10 @@
 type: opportunity
 name: line-creators-market-china-2026
 status: active
-score: 8.2
+score: 8.0
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: jp+tw+th+id
 tags: [line, sticker, emoji, japan, paypal, china-individual, ai-generate]
 ---

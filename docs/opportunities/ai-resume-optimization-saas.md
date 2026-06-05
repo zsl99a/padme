@@ -5,7 +5,7 @@ status: active
 score: 7.1
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [resume, saas, micro-saas, global, content, freelance]
 ---

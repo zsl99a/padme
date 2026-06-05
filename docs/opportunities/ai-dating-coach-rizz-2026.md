@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-dating-coach-rizz-2026
 status: active
-score: 8.4
+score: 8.7
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: us
 tags: [dating, ai-coach, app, subscription, overseas]
 ---

@@ -2,10 +2,10 @@
 type: opportunity
 name: agensi-skill-marketplace-2026
 status: active
-score: 8.8
+score: 8.7
 freshness_class: seasonal
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [skill-marketplace, agent-economy, 0-fund, solo-dev, claude, anthropic]
 ---
@@ -18,11 +18,12 @@ tags: [skill-marketplace, agent-economy, 0-fund, solo-dev, claude, anthropic]
 
 ## 为什么这是机会(2026 关键证据)
 
-**1. Agensi.io 是 2026 Q2 唯一向创作者 80% 抽成的市场**
+**1. Agensi.io 是 2026 Q2 唯一向创作者 80% 抽成的市场**[待硬证据]
 
-来自 [Agensi.io 2026-05 创作者政策](https://agensi.io/creators)(2026-05 抓取):
+来自 [Agensi.io 2026-05 创作者政策](https://agensi.io/creators)(2026-06-05 抓取):
 
-- **创作者分成**:**80%**(平台 20%)
+- ⚠️ **80% 数字无法在 agensi.io 公开页面独立验证**(JS 渲染,markdown fetch 拿不到);符合"行业典型 30-70%"的高位,但**缺乏硬证据**;建议**首月实际创作者结算账单截图**或**首月实际收入**佐证
+- **创作者分成**:**80%**(平台 20%) — **待硬证据**
 - **收款**:Stripe Connect(支持中国大陆个人 Payoneer 提现)
 - **技能格式**:**SKILL.md**(Anthropic 标准 + 通用 YAML frontmatter)
 - **已上架技能**:覆盖 DevOps / Data / Marketing / Productivity(中国创作者已上线:高紹育、聊言青、王晓菲等)

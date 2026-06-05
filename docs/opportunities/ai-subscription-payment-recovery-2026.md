@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-subscription-payment-recovery-2026
 status: active
-score: 9.1
+score: 9.0
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [saas, micro-saas, stripe, dunning, recovery, indie, global, b2b]
 ---

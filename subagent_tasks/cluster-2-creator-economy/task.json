@@ -1,0 +1,9 @@
+{
+  "task_id": "cluster-2-creator-economy",
+  "assigned_at": "2026-06-05T10:00:00+08:00",
+  "scope": "海外创作者经济(Newsletter/Podcast/Membership)机会档案的重复检测 + 多源验证 + v2.0 重新评分,共 7 个文件",
+  "deadline_minutes": 60,
+  "deliverable": "subagent_tasks/cluster-2-creator-economy/result.md",
+  "tools_allowed": ["web_search", "web_scrape", "read_file", "write_file", "edit_file", "terminal"],
+  "output_format": "markdown"
+}

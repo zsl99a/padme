@@ -2,10 +2,10 @@
 type: opportunity
 name: eu-ai-act-compliance-saas-2026
 status: active
-score: 9.2
+score: 9.1
 freshness_class: seasonal
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global/eu
 tags: [ai-compliance, eu-ai-act, saas, micro-saas, legal-tech]
 ---

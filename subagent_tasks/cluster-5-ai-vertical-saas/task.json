@@ -1,0 +1,9 @@
+{
+  "task_id": "cluster-5-ai-vertical-saas",
+  "assigned_at": "2026-06-05T10:00:00+08:00",
+  "scope": "AI 垂直 SaaS(B2B/SMB 行业应用)机会档案的重复检测 + 多源验证 + v2.0 重新评分,共 8 个文件",
+  "deadline_minutes": 60,
+  "deliverable": "subagent_tasks/cluster-5-ai-vertical-saas/result.md",
+  "tools_allowed": ["web_search", "web_scrape", "read_file", "write_file", "edit_file", "terminal"],
+  "output_format": "markdown"
+}

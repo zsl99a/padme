@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-trainer-certificate-cn-2026
 status: active
-score: 7.1
+score: 7.0
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 tags: [policy-dividend, certificate, government-subsidy, cn]
 region: cn
 ---

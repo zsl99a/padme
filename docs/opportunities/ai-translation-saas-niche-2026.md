@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-translation-saas-niche-2026
 status: active
-score: 8.0
+score: 7.0
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [translation, saas, subscription, indie, vertical, china-friendly]
 ---

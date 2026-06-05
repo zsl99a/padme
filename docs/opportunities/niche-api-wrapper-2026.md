@@ -2,10 +2,10 @@
 type: opportunity
 name: niche-api-wrapper-2026
 status: active
-score: 7.5
+score: 7.2
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [api, wrapper, white-hat, ai, indie, global]
 ---

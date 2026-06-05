@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-model-photo-saas-photoai-clone-2026
 status: active
-score: 8.6
+score: 8.4
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global/cn
 tags: [ai, saas, photo, fashion, e-commerce, replicate, stripe, indie-solo]
 ---

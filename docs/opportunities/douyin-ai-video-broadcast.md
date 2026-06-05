@@ -2,10 +2,10 @@
 type: opportunity
 name: douyin-ai-video-broadcast
 status: active
-score: 6.9
+score: 6.5
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: cn
 tags: [ai, douyin, kuaishou, video, broadcast, gray, cn, automation]
 ---

@@ -2,10 +2,10 @@
 type: opportunity
 name: whatsapp-business-ai-agent-builder-2026
 status: active
-score: 8.9
+score: 8.8
 freshness_class: seasonal
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global+cn-friendly
 tags: [whatsapp, ai-agent, bsp, meta, b2b, service, global, cn-overseas]
 ---

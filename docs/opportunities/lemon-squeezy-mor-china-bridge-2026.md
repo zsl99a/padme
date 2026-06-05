@@ -5,7 +5,7 @@ status: active
 score: 10.0
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: cn
 tags: [payment, mor, china-individual, indie, enabler]
 ---

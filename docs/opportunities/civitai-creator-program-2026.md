@@ -2,10 +2,10 @@
 type: opportunity
 name: civitai-creator-program-2026
 status: active
-score: 6.5
+score: 6.4
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 tags: [ai-art, lora, stable-diffusion, model, marketplace, creator-program, global]
 region: global
 ---

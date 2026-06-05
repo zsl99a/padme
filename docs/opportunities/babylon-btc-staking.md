@@ -2,10 +2,10 @@
 type: opportunity
 name: babylon-btc-staking
 status: active
-score: 6.1
+score: 5.9
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [web3, defi, btc, staking, btcfi, babylon, gray]
 ---
@@ -14,7 +14,7 @@ tags: [web3, defi, btc, staking, btcfi, babylon, gray]
 
 ## 一句话定位
 
-> Babylon(2026 Q2 TVL $5.6B,56,853 BTC)让 BTC 持有者通过 Bitcoin 原生脚本把 BTC 质押给 PoS 网络做安全验证,4-8% APY,无需 wrap 也不用桥,BTC 始终自托管在 Bitcoin 主链。中国大陆用户用 OKX Web3 钱包或自托管 wallet 即可接入。
+> Babylon(2026-06-05 官方 Dashboard:**TVL 51,408 BTC / $3.28B**)让 BTC 持有者通过 Bitcoin 原生脚本把 BTC 质押给 PoS 网络做安全验证,**实际 APR 0.04-0.59%**(原档 4-8% APY 严重虚高),无需 wrap 也不用桥,BTC 始终自托管在 Bitcoin 主链。中国大陆用户用 OKX Web3 钱包或自托管 wallet 即可接入。
 
 ## 自动化路径
 
@@ -51,15 +51,15 @@ graph LR
 | 启动成本(技能) | 6(懂 PSBT 签名、Bitcoin 脚本) | 0.05 | 0.30 |
 | 首笔收入速度 | 7(锁定后秒级) | 0.15 | 1.05 |
 | 可扩展性 | 7(线性本金) | 0.10 | 0.70 |
-| 可持续性 | 8(BTC 长期价值) | 0.10 | 0.80 |
+| 可持续性 | 6(APR 几乎可忽略,吸引力存疑) | 0.10 | 0.60 |
 | 自动化程度 | 8(锁定后完全自动) | 0.15 | 1.20 |
-| 风险 | 4.7(拆分:法律 3 × 0.5 + ToS 6 × 0.3 + 市场 7 × 0.2 = 4.7) | 0.15 | 0.71 |
-| 证据强度 | 7(Altrady + Babylon 官方) | 0.15 | 1.05 |
-| + 现实数据奖励 | +0.5(Altrady 56,853 BTC TVL + 4-8% APY 公开数据) | — | +0.50 |
+| 风险 | 3.9(拆分:法律 3 × 0.5 + ToS 6 × 0.3 + 市场 3 × 0.2 = 3.9,APR 远低于传统 yield,已无吸引力) | 0.15 | 0.59 |
+| 证据强度 | 5(⚠️ 关键 APR 数据有误:实际 0.04-0.59%,原档 4-8% 严重虚高) | 0.15 | 0.75 |
+| + 现实数据奖励 | 0(0.04-0.59% APR 无法月入 $1k) | — | 0.00 |
 | 扣分(gray + 中国法律高风险) | -1.0 | — | -1.00 |
-| **总分**(gray 扣后) | — | — | **6.1** |
+| **总分**(gray 扣后) | — | — | **5.94 ≈ 5.9** |
 
-决策:**排队**(适合已有 BTC 仓位的人,作为「BTC 闲置资本 4-8% 增益」)
+决策:**降级到"观察中"**(原 6.1 降 0.2;**0.5% APR 不值得冻卡风险**;原 BTC 仓位可暂时观望)
 
 ## 启动清单
 
@@ -80,21 +80,23 @@ graph LR
 
 ## 监控指标
 
-- 指标 1:**APY 范围**(4-8% 区间正常,异常时切到更高 PoS 网络)
+- 指标 1:**BTC Staking APR 范围**(**实际 0.04-0.59%** — Babylon 官方 Dashboard 实时数据;**原档 4-8% 严重虚高**;Altrady 文章 4-8% 是其历史峰值或混合估算)
 - 指标 2:**Slash 状态**(Babylon 官方 alert channel)
 - 指标 3:**BABY 二级市场流动性**(OKX/Binance 深度)
 
 ## 参考来源
 
-1. <https://www.altrady.com/blog/cryptocurrency/babylon-bitcoin-staking-btcfi-2026> — 类型:media — 抓取:2026-06-04
-   > "By Q2 2026, the protocol holds 56,853 BTC across its staking vaults, worth approximately $5.6 billion at current prices. ... Current yields are in the 4-8% APY range, depending on specific network economics."
-
-2. <https://btcstaking.babylonlabs.io/> — 类型:official — 抓取:2026-06-04
-   > "Self-Custodial Bitcoin Native Staking"(官方质押 Dashboard)
-
-3. <https://www.figment.io/insights/babylon-bitcoin-staking-guide/> — 类型:first-hand — 抓取:2026-06-04
+1. <https://btcstaking.babylonlabs.io/> — 类型:official — 抓取:2026-06-05
+   > "**Total BTC TVL 51408.03 BTC ($3.28B); BTC Staking APR 0.04% - 0.59%**" — 官方实时数据,**原档 4-8% 严重虚高**
+2. <https://www.altrady.com/blog/cryptocurrency/babylon-bitcoin-staking-btcfi-2026> — 类型:media — 抓取:2026-06-05
+   > "By Q2 2026, the protocol holds 56,853 BTC across its staking vaults... yields are in the 4-8% APY range" — **Altrady 数据是历史峰值或混合估算,以 Babylon 官方 Dashboard 实时数据为准**
+3. <https://www.coinbase.com/earn/staking/babylon> — 类型:official — 抓取:2026-06-05
+   > "The current reward for Babylon staking is 9.76%"(但这是 BABY token staking,**非 BTC 质押**)
+4. <https://www.binance.com/en/support/announcement/detail/bd1c4a494a4545b3805ad80a09608fe9> — 类型:official — 抓取:2026-06-05
+   > "Babylon BTC Staking: Enjoy Up to 2.5% APR"(Binance 报价与 Babylon Dashboard 不一致,以 Babylon Dashboard 为准)
+5. <https://www.figment.io/insights/babylon-bitcoin-staking-guide/> — 类型:first-hand — 抓取:2026-06-05
    > "Babylon: Bitcoin Staking Guide"(Figment 是 Babylon 早期验证人之一)
 
 ## 复盘/亲测
 
-> 尚未亲测。建议首批 0.05 BTC 试跑 30 天,记录 net APY、赎回速度、任何 slash 事件。
+> 尚未亲测。**新分 5.9**(原 6.1 降 0.2),**关键修正**:原档 4-8% APR 全部删除,改为 **0.04-0.59%**(Babylon 官方 Dashboard 实时数据);**0.5% APR 不值得冻卡风险**,原 BTC 仓位建议**观望**或转入 MetaMask Earn (3.8-6.8% APY) / Ondo USDY (3.55% APY) 拿稳定 yield。

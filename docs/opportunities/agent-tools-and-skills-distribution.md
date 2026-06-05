@@ -2,10 +2,10 @@
 type: opportunity
 name: agent-tools-and-skills-distribution
 status: active
-score: 8.7
+score: 8.5
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [ai, agent, dev-tool, distribution, global]
 ---

@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-real-estate-listing-marketing-2026
 status: active
-score: 8.0
+score: 7.7
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [real-estate, saas, micro-saas, listing, marketing, indie, global, b2b, niche]
 ---

@@ -2,10 +2,10 @@
 type: opportunity
 name: new-api-self-host-saas
 status: active
-score: 7.0
+score: 6.5
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: cn
 tags: [open-source, saas, ai, dev-tool, cn]
 ---

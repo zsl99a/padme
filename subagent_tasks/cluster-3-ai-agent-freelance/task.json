@@ -1,0 +1,9 @@
+{
+  "task_id": "cluster-3-ai-agent-freelance",
+  "assigned_at": "2026-06-05T10:00:00+08:00",
+  "scope": "AI Agent + Freelance/咨询型 服务机会档案的重复检测 + 多源验证 + v2.0 重新评分,共 10 个文件",
+  "deadline_minutes": 60,
+  "deliverable": "subagent_tasks/cluster-3-ai-agent-freelance/result.md",
+  "tools_allowed": ["web_search", "web_scrape", "read_file", "write_file", "edit_file", "terminal"],
+  "output_format": "markdown"
+}

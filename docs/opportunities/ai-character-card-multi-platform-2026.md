@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-character-card-multi-platform-2026
 status: active
-score: 8.0
+score: 7.8
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [creator-economy, prompt, ai-character, gpt-store, chub, gray]
 ---

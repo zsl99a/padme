@@ -2,10 +2,10 @@
 type: opportunity
 name: shopify-ai-chatbot-2026
 status: active
-score: 7.9
+score: 7.6
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [shopify, ai, chatbot, app-store, indie, global]
 ---

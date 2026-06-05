@@ -2,10 +2,10 @@
 type: opportunity
 name: wechat-short-drama-cps
 status: active
-score: 6.1
+score: 6.0
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: cn
 tags: [ai, wechat, gzh, short-drama, cps, gray, cn, automation]
 ---

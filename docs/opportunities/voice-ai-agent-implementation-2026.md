@@ -2,10 +2,10 @@
 type: opportunity
 name: voice-ai-agent-implementation-2026
 status: active
-score: 8.1
+score: 7.6
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [voice-ai, agent, vapi, retell, bland, b2b, service, smb, retainer, agency]
 ---

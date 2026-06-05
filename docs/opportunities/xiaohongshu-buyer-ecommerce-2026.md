@@ -2,10 +2,10 @@
 type: opportunity
 name: xiaohongshu-buyer-ecommerce-2026
 status: active
-score: 8.4
+score: 8.2
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: cn
 tags: [xiaohongshu, buyer, e-commerce, livestream, dropship-style]
 ---

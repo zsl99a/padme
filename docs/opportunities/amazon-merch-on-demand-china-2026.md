@@ -2,10 +2,10 @@
 type: opportunity
 name: amazon-merch-on-demand-china-2026
 status: active
-score: 7.4
+score: 6.0
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: us+cn
 tags: [print-on-demand, amazon, tshirt, passive-income, china-individual]
 ---

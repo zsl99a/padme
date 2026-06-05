@@ -2,10 +2,10 @@
 type: opportunity
 name: hyperliquid-hype-s2-airdrop
 status: active
-score: 4.9
+score: 4.7
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: us+cn
 tags: [web3, airdrop, perp-dex, hyperliquid, gray, kyc, sybil]
 ---

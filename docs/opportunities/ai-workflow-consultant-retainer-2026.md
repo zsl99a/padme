@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-workflow-consultant-retainer-2026
 status: active
-score: 8.4
+score: 8.0
 freshness_class: volatile
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [consulting, retainer, freelance, ai, prompt-engineering, retain, china-friendly]
 ---

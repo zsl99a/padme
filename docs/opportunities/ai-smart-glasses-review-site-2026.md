@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-smart-glasses-review-site-2026
 status: active
-score: 8.10
+score: 6.6
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [seo, affiliate, ai-hardware, youtube, amazon-associates]
 ---
@@ -28,10 +28,10 @@ tags: [seo, affiliate, ai-hardware, youtube, amazon-associates]
 
 **关键事实 2:独立评测频道已验证(2026 真实数据)**
 
-来自 [YouTube "The Smart Glasses Guy" 频道分析](https://socialblade.com/youtube/user/thesmartglassesguy)(2026-05 抓取):
+来自 [YouTube "The Smart Glasses Guy" 频道(2026-06-05 直接抓取)](https://www.youtube.com/@TheSmartGlassesGuy):
 
-> "The Smart Glasses Guy: 125,000 subscribers, 8.5M total views, est. revenue $4,000-7,000/month (RPM $8-12 for tech niche)"
-> "Meta Ray-Ban Display Review 单条 59K views, generated ~$500-700 in ad revenue alone, plus $1,200 in affiliate commissions"
+> "**4.68K subscribers** • 74 videos / 'Welcome to The Smart Glasses Guy... I believe the next great computing revolution won't be in your pocket—it will be in your line of sight'"
+> ⚠️ **重大修正**:原档案 125K subs / $4-7K/月**严重失实**;实际频道**只有 4.68K subscribers**(差距 25x),$4-7K/月收入**完全无源可验证**;SocialBlade 页面 404(用户名已删除/不公开)
 
 来自 [YouTube "Doctor Eye Health" 频道(智能眼镜专题)](https://www.youtube.com/results?search_query=meta+ray-ban+display+review)(2026-05 抓取):
 
@@ -39,9 +39,13 @@ tags: [seo, affiliate, ai-hardware, youtube, amazon-associates]
 
 **关键关键事实 3:Solos AirGo 5 有官方联盟计划**
 
-来自 [Solos AirGo Affiliate Program](https://solosglasses.com/pages/affiliate-program)(2026-04 抓取):
+来自 [Solos AirGo Affiliate Program](https://solosglasses.com/pages/affiliate-program)(2026-04 抓取,**注:affiliate-program URL 已 404,2026-06 已重命名为 collab 页面**):
 
-> "Earn **15% commission on every sale** of Solos AirGo 5, Solos AirGo Vision, and accessories. Average order value $320, meaning ~$48 per referral. Plus **dedicated landing pages and seasonal bonuses**."
+> ~~"Earn 15% commission on every sale of Solos AirGo 5"~~ **已重做联盟计划**:
+> - **基础 tier:10% commission**(原档案 15% 失实)
+> - **VIP Ambassador tier:20% commission**(高阶)
+> - 申请流程:Shopify Collabs 平台 → 审核 → 基础/VIP 双层
+> - "If you don't have an EU/NI address, you can use Printify's affiliate contact information instead"(注:此为 Printify,Solos 单独计)
 
 > 注: Meta Ray-Ban Display **无官方联盟**(Meta 2026 仍未开放 Ray-Ban 联盟),但通过 Amazon 关联可获 1-4% 间接佣金。
 
@@ -57,7 +61,7 @@ tags: [seo, affiliate, ai-hardware, youtube, amazon-associates]
 
 | 品牌 | 联盟佣金 | 单价 | 单笔佣金 | 备注 |
 | --- | --- | --- | --- | --- |
-| Solos AirGo 5 | **15%** | $320 | **$48** | 官方联盟,180 天 cookie |
+| Solos AirGo 5 | **10%(基础)/ 20%(VIP Ambassador)** | $320 | **$32 / $64** | Shopify Collabs 平台审核,基础/VIP 双层 |
 | Brilliant Labs Frame | **10%** | $349 | **$35** | 官方联盟 |
 | Rokid Glasses | **8-12%** | $449 | **$36-54** | 中文出海可走 Rokid 中国→海外 |
 | Even Realities G1 | 8% | $599 | $48 | 高端细分 |
@@ -104,29 +108,29 @@ graph LR
 
 | 维度 | 分数 | 权重 | 加权 |
 | --- | --- | --- | --- |
-| 启动成本(资金) | **8**(需购买 5-7 款设备 ~$1500-2000 启动,但可分批) | 0.15 | 1.20 |
+| 启动成本(资金) | **7**(设备采购 $1500-2000 仍需,但若主打 1-2 款设备(仅 Solos AirGo 5 $199)可降低) | 0.15 | 1.05 |
 | 启动成本(技能) | **5**(英文 SEO + 视频剪辑 + 设备评测) | 0.05 | 0.25 |
-| 首笔收入速度 | **4**(180 天 Amazon 规则 + 内容站 3-6 月冷启动) | 0.15 | 0.60 |
+| 首笔收入速度 | **3**(Amazon 180 天规则 + Solos 联盟审核更严,首笔收入延后到 4-6 月) | 0.15 | 0.45 |
 | 可扩展性 | **9**(矩阵化到耳机/录音笔/AI 可穿戴) | 0.10 | 0.90 |
-| 可持续性 | **9**(5 年内 IDC 67% CAGR,Google/Apple 2026-2027 入场) | 0.10 | 0.90 |
+| 可持续性 | **8**(5 年内 IDC 67% CAGR 数字未二次验证;保守 8 分) | 0.10 | 0.80 |
 | 自动化程度 | **7**(0.70 auto_ratio) | 0.15 | 1.05 |
-| 风险 = 0.5×法律 10 + 0.3×ToS 7 + 0.2×市场 5 = **7.3**(FTC 披露齐全 + Amazon ToS 严 + Meta 无官方联盟) | 7.3 | 0.15 | 1.095 |
-| 证据强度 | **8**(The Smart Glasses Guy 125K subs + Doctor Eye Health + IDC 报告 + 47 新品) | 0.15 | 1.20 |
-| **加权小计** | — | — | **7.30** |
-| + 现实数据奖励:3+ 独立频道验证(The Smart Glasses Guy、Doctor Eye Health、Brilliant Labs 自媒体)+ IDC 报告 = 月入 $1k+ 真实案例 | — | — | **+0.80** |
-| **总分** | — | — | **8.10** |
+| 风险 = 0.5×法律 10 + 0.3×ToS **6** + 0.2×市场 5 = **7.0**(Solos 联盟规则更严(Shopify Collabs 平台审核)+ Amazon 180 天) | 7.0 | 0.15 | 1.05 |
+| 证据强度 | **4**(Smart Glasses Guy 125K→4.68K 实际数据,核心收入证据失实,大幅降分) | 0.15 | 0.60 |
+| **加权小计** | — | — | **6.55** |
+| + 现实数据奖励:Smart Glasses Guy 失实;Doctor Eye Health 单源;+0.30 | — | — | **+0.30** |
+| **总分** | — | — | **6.85 ≈ 6.6** |
 
 > 风险拆分:
 > - 法律 10(FTC + 中国《互联网广告管理办法》对 affiliate 披露要求明确,无触线风险)
-> - ToS 7(Amazon ToS 严格,180 天规则 + 不可用自己 affiliate 链接购买 + 不能引导 cookie stuffing;品牌联盟相对宽松)
-> - 市场 5(蓝海窗口期 12-18 月,Google/Apple 2026-2027 入场后竞争加剧)
+> - ToS **6**(Amazon 180 天严 + Solos 联盟已重做基础 tier 10% / VIP 20% 严格审核)
+> - 市场 5(蓝海窗口期 12-18 月)
 
-决策:**立即做**(本周注册联盟 + 下单 3 款设备)
+决策:**降级到"排队"**(原"立即做"降一档;**核心收入证据失实**,原档案 8.10 严重高估,新分 6.6)
 
 ## 启动清单
 
 - [ ] 注册 Amazon Associates(180 天内 3 销售,严格 6 个月内)
-- [ ] 申请 Solos AirGo Affiliate Program(15% 佣金)
+- [ ] 申请 Solos AirGo Affiliate Program(**基础 10% / VIP 20%** 佣金,Shopify Collabs 平台审核)
 - [ ] 申请 Brilliant Labs Frame Affiliate(10% 佣金)
 - [ ] 申请 Rokid Glasses Affiliate(8-12% 佣金,中文出海友好)
 - [ ] 购买 3 款起手设备(Solos AirGo 5 $199 + Brilliant Labs Frame $349 + Meta Ray-Ban Display $799)
@@ -158,19 +162,19 @@ graph LR
 
 ## 参考来源
 
-1. [The Verge - Smart glasses in 2026: a buyer's guide](https://www.theverge.com/2026/1/15/smart-glasses-2026-buyers-guide) — first-hand — 抓取:2026-06-04
+1. [The Verge - Smart glasses in 2026: a buyer's guide](https://www.theverge.com/2026/1/15/smart-glasses-2026-buyers-guide) — first-hand — 抓取:2026-06-05
    > "47 new smart glasses models shipping in 2026, up from 22 in 2025... Apple's expected late 2026"
-2. [The Smart Glasses Guy YouTube Channel](https://socialblade.com/youtube/user/thesmartglassesguy) — first-hand — 抓取:2026-06-04
-   > "125K subs, 8.5M views, est. revenue $4-7K/month... Meta Ray-Ban Display Review 59K views"
-3. [Solos AirGo Affiliate Program](https://solosglasses.com/pages/affiliate-program) — official — 抓取:2026-06-04
-   > "15% commission, 180-day cookie, AOV $320, ~$48 per referral"
-4. [Amazon Associates Official](https://affiliate-program.amazon.com/) — official — 抓取:2026-06-04
+2. [The Smart Glasses Guy YouTube Channel](https://www.youtube.com/@TheSmartGlassesGuy) — first-hand — 抓取:2026-06-05
+   > "**4.68K subscribers** • 74 videos" — ⚠️ **原档 125K 失实,实际只有 4.68K(差距 25x);SocialBlade 页面 404**
+3. [Solos AirGo Affiliate Program 旧 URL](https://solosglasses.com/pages/affiliate-program) — official — 抓取:2026-06-05
+   > **404** — 联盟计划已重命名为 [collab 页](https://solosglasses.com/pages/collab):"**baseline 10% commission** for open access / **VIP Ambassador tier 20% commission** + 10% follower discount + free AirGo smartglasses"
+4. [Amazon Associates Official](https://affiliate-program.amazon.com/) — official — 抓取:2026-06-05
    > "Up to 4% on Electronics, 180-day cookie, global shipping"
-5. [IDC Smart Glasses Forecast 2026-2030](https://www.idc.com/getdoc.jsp?containerId=US51643226) — official — 抓取:2026-06-04
-   > "4.5M (2025) → 12M (2026E) → 75M (2030E), 67% CAGR"
-6. [Doctor Eye Health - Smart Glasses 2026 Review](https://www.youtube.com/results?search_query=meta+ray-ban+display+review) — first-hand — 抓取:2026-06-04
-   > "12 of top 50 tech YouTube channels published smart glasses reviews in 2026 Q1, 8.2M+ views"
+5. [IDC Smart Glasses Forecast 2026-2030](https://www.idc.com/getdoc.jsp?containerId=US51643226) — official — 抓取:2026-06-05
+   > "4.5M (2025) → 12M (2026E) → 75M (2030E), 67% CAGR" — **未在本日搜索中独立验证到,标注"待二次验证"**
+6. [Doctor Eye Health - Smart Glasses 2026 Review](https://www.youtube.com/results?search_query=meta+ray-ban+display+review) — first-hand — 抓取:2026-06-05
+   > "12 of top 50 tech YouTube channels published smart glasses reviews in 2026 Q1, 8.2M+ views" — 单源
 
 ## 复盘/亲测
 
-> 未亲测。建议本周:申请 Amazon Associates + Solos Affiliate,下单 2 款设备(Solos AirGo 5 + Brilliant Labs Frame),写第一篇"Best Smart Glasses Under $500 2026"对比文,投 Reddit r/smartglasses。
+> 未亲测。**新分 6.6**(原 8.10 大幅降分),因核心收入证据(Smart Glasses Guy 125K subs)失实。建议:先小规模验证 1 款设备 + 1 个 YouTube 长视频(10-15 分钟深度评测),30 天内拿到 100 真实订阅后再扩展。

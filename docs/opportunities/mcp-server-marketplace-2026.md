@@ -2,10 +2,10 @@
 type: opportunity
 name: mcp-server-marketplace-2026
 status: active
-score: 7.9
+score: 7.7
 freshness_class: seasonal
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 tags: [mcp, agent, marketplace, distribution, dev-tool, multi-platform, global]
 region: global
 ---

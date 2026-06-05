@@ -2,10 +2,10 @@
 type: opportunity
 name: coupang-rocket-growth-china-2026
 status: active
-score: 6.1
+score: 6.8
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: kr
 tags: [coupang, korea, cross-border, china-seller, rocket-growth]
 ---

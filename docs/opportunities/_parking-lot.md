@@ -1559,6 +1559,30 @@ last_updated: 2026-06-04
 
 ## 2026-06-04 第九批(可激活机会池 7.5-7.9)AI 淘金客 sub-agent 新增扫描
 
+## 2026-06-05 验证轮 8 集群 deprecated 迁移
+
+### 1. Web Monetization API 内容付费化(已 deprecated)
+
+- **原档**:`web-monetization-api.md`(原分 7.4)
+- **新分**:5.5
+- **标签**:deprecated
+- **deprecated_at**:2026-06-05
+- **关键原因**:**主要支付方 Coil 已于 2025 关闭服务**(Interledger 社区 2025 帖子 "Web Monetization after Coil Shutdown"),仅剩 Brave 浏览器内置 Web Monetization,用户基数小,主要收入模式死亡。
+- **action**:**作为独立业务不可行**;可作为"已有内容站的被动收入层"叠加(在已有站基础上插一行 meta 标签),**不要单独做**。
+- **何时复检**:Brave 用户基数大幅增长(>1% Brave 占比)或 ILP 出现新支付方
+
+### 2. Etsy(中国个人 + Payoneer 收款 2026)(已 deprecated)
+
+- **原档**:`etsy-china-individual-payoneer-2026.md`(原分 7.7)
+- **新分**:5.5
+- **标签**:deprecated
+- **deprecated_at**:2026-06-05
+- **关键原因**:**Etsy 官方明文 "At this time, new shops cannot open in China. Only sellers in China who already have an open shop can use Etsy Payments with a Payoneer account"**(2026-06-05 抓取确认)。**中国大陆个人无法新开 Etsy 店铺**,本机会对中国大陆个人**实质性失效**。
+- **action**:① 老板若有 HK/台湾/Singapore 身份,可走 Etsy(等同新机会);② 老板持中国大陆身份证,此机会**实质性失效**,建议改走 [printify-shopify-pod-2026.md](./printify-shopify-pod-2026.md) 或 Amazon Merch(走 EU/JP 店铺,版税未变)。
+- **何时复检**:Etsy 重新开放中国大陆新店注册(政策面变化)
+
+---
+
 按 v2.0 评分排队中,等信号或资源就绪即上调主表。**任何一条触发条件达成 → 写档案 → 上主表**。
 
 | # | 机会名 | 分数 | 标签 | region | 备注 / 触发条件 |

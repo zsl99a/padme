@@ -2,10 +2,10 @@
 type: opportunity
 name: apple-podcasts-subscriptions-2026
 status: active
-score: 7.2
+score: 6.5
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [podcast, apple, subscriptions, audio, global, paypal]
 ---

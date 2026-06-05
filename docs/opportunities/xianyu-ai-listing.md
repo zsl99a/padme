@@ -2,10 +2,10 @@
 type: opportunity
 name: xianyu-ai-listing
 status: active
-score: 7.1
+score: 6.8
 freshness_class: seasonal
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: cn
 tags: [ai, xianyu, pdd, taobao, dropship, gray, cn, automation]
 ---

@@ -2,10 +2,10 @@
 type: opportunity
 name: ai-hvac-home-services-marketing-2026
 status: active
-score: 7.8
+score: 7.9
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: us+global
 tags: [hvac, plumbing, electrical, home-services, marketing, saas, b2b, contractor]
 ---

@@ -2,10 +2,10 @@
 type: opportunity
 name: chrome-extension-paid-mv3-2026
 status: active
-score: 9.0
+score: 8.8
 freshness_class: structural
 first_seen: 2026-06-04
-last_updated: 2026-06-04
+last_updated: 2026-06-05
 region: global
 tags: [chrome, extension, mv3, paid, indie, global]
 ---
