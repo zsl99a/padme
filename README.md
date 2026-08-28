@@ -1,7 +1,10 @@
-# Padme — AI 智能淘金客
+# 🤖 Padme
 
-> 从互联网全网搜刮赚钱机会 → 多维评分 → 沉淀可闭环的执行档案 → 持续进化。
-> 主 agent 只做一件事:**持续启动 sub agent,永不停机**。
+> 多 Agent 协同机会扫描、多维评估与自动化执行工作流框架。
+
+[![AI Agent](https://img.shields.io/badge/Workflow-Multi--Agent-3EF2CF?style=flat-square&logo=openai)](./AGENTS.md)
+[![Automation](https://img.shields.io/badge/Stack-Shell_%2F_Automation-DEA584?style=flat-square&logo=gnubash)](./workflows)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
 ---
 
